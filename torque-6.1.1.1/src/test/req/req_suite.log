@@ -1,0 +1,22 @@
+Running suite req test suite methods
+test_uut.c:445:P:test_constructors:test_constructors:0: Passed
+test_uut.c:476:P:test_constructors:test_equals_operator:0: Passed
+test_uut.c:120:P:test_constructors:test_append_gres:0: Passed
+test_uut.c:691:P:test_constructors:test_get_num_tasks_for_host:0: Passed
+test_uut.c:139:P:test_constructors:test_string_constructor:0: Passed
+test_uut.c:61:P:test_constructors:test_get_cores_threads:0: Passed
+test_uut.c:553:P:test_set_from_string:test_set_from_string:0: Passed
+test_uut.c:104:P:test_set_from_string:test_has_conflicting_values:0: Passed
+test_uut.c:573:P:test_set_from_string:test_set_attribute:0: Passed
+test_uut.c:339:P:test_set_from_string:test_submission_string_has_duplicates:0: Passed
+test_uut.c:301:P:test_set_from_string:test_get_set_values:0: Passed
+test_uut.c:596:P:test_set_from_string:test_get_memory_for_host:0: Passed
+test_uut.c:742:P:test_set_from_string:test_get_swap_for_host:0: Passed
+test_uut.c:772:P:test_set_from_string:test_get_task_allocation:0: Passed
+test_uut.c:629:P:test_set_from_string:test_update_hostlist:0: Passed
+test_uut.c:74:P:test_get_gpu_mode:test_get_gpu_mode:0: Passed
+test_uut.c:40:P:test_get_gpu_mode:test_cpt:0: Passed
+test_uut.c:717:P:test_setters:test_set_place_value:0: Passed
+test_uut.c:641:P:test_setters:test_set_hostlist:0: Passed
+Results for all suites run:
+100%: Checks: 19, Failures: 0, Errors: 0

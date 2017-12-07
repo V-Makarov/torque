@@ -1,0 +1,10 @@
+Running suite issue_request_suite methods
+test_uut.c:51:P:test_one:test_one:0: Passed
+test_uut.c:192:P:test_send_request_to_remote_server:test_send_request_to_remote_server:0: Passed
+test_uut.c:209:P:test_handle_local_request:test_handle_local_request:0: Passed
+test_uut.c:225:P:test_issue_Drequest:test_issue_Drequest:0: Passed
+test_uut.c:267:P:test_issue_to_svr:test_issue_to_svr:0: Passed
+test_uut.c:294:P:test_reissue_to_svr:test_reissue_to_svr:0: Passed
+test_uut.c:32:P:test_reissue_to_svr:queue_a_retry_task_test:0: Passed
+Results for all suites run:
+100%: Checks: 7, Failures: 0, Errors: 0

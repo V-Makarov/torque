@@ -1,0 +1,17 @@
+Running suite req_delete_suite methods
+test_uut.c:286:P:tests:test_delete_inactive_job:0: Passed
+test_uut.c:302:P:tests:test_force_purge_work:0: Passed
+test_uut.c:179:P:tests:test_delete_all_work:0: Passed
+test_uut.c:244:P:tests:test_ensure_deleted:0: Passed
+test_uut.c:240:P:tests:test_apply_job_delete_nanny:0: Passed
+test_uut.c:185:P:tests:test_post_job_delete_nanny:0: Passed
+test_uut.c:224:P:tests:test_job_delete_nanny:0: Passed
+test_uut.c:160:P:tests:test_forced_jobpurge:0: Passed
+test_uut.c:138:P:tests:test_post_delete_mom2:0: Passed
+test_uut.c:331:P:tests:test_is_ms_on_server:0: Passed
+test_uut.c:368:P:tests:test_setup_apply_job_delete_nanny:0: Passed
+test_uut.c:119:P:more:test_handle_delete_all:0: Passed
+test_uut.c:109:P:more:test_handle_single_delete:0: Passed
+test_uut.c:94:P:more:test_perform_job_delete_array_bookkeeping:0: Passed
+Results for all suites run:
+100%: Checks: 14, Failures: 0, Errors: 0

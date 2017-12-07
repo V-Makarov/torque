@@ -1,0 +1,5 @@
+Running suite job_suite methods
+test_uut.c:24:P:constructors_test:test_constructors:0: Passed
+test_uut.c:70:P:test_plugin_things:test_plugin_things:0: Passed
+Results for all suites run:
+100%: Checks: 2, Failures: 0, Errors: 0

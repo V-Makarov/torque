@@ -1,0 +1,26 @@
+Running suite req_jobobit_suite methods
+test_uut.c:173:P:req_jobobit_tests:setup_from_test:0: Passed
+test_uut.c:195:P:req_jobobit_tests:is_joined_test:0: Passed
+test_uut.c:226:P:req_jobobit_tests:return_stdfile_test:0: Passed
+test_uut.c:239:P:req_jobobit_tests:rel_resc_test:0: Passed
+test_uut.c:255:P:req_jobobit_tests:handle_exiting_or_abort_substate_test:0: Passed
+test_uut.c:269:P:req_jobobit_tests:setrerun_test:0: Passed
+test_uut.c:290:P:req_jobobit_tests:setup_cpyfiles_test:0: Passed
+test_uut.c:313:P:req_jobobit_tests:handle_returnstd_test:0: Passed
+test_uut.c:334:P:req_jobobit_tests:mom_comm_test:0: Passed
+test_uut.c:362:P:req_jobobit_tests:handle_complete_first_time_test:0: Passed
+test_uut.c:416:P:req_jobobit_tests:handle_complete_second_time_test:0: Passed
+test_uut.c:449:P:req_jobobit_tests:handle_complete_subjob_test:0: Passed
+test_uut.c:477:P:req_jobobit_tests:handle_exited_test:0: Passed
+test_uut.c:492:P:req_jobobit_tests:add_comment_to_parent_test:0: Passed
+test_uut.c:527:P:req_jobobit_tests:end_of_job_accounting_test:0: Passed
+test_uut.c:550:P:req_jobobit_tests:handle_terminating_array_subjob_test:0: Passed
+test_uut.c:570:P:req_jobobit_tests:handle_rerunning_array_subjob_test:0: Passed
+test_uut.c:582:P:req_jobobit_tests:handle_terminating_job_test:0: Passed
+test_uut.c:161:P:req_jobobit_tests:handle_stageout_test:0: Passed
+test_uut.c:672:P:req_jobobit_tests:update_substate_from_exit_status_test:0: Passed
+test_uut.c:150:P:req_jobobit_tests:handle_stagedel_test:0: Passed
+test_uut.c:137:P:req_jobobit_tests:get_used_test:0: Passed
+test_uut.c:85:P:req_jobobit_tests:set_job_comment_test:0: Passed
+Results for all suites run:
+100%: Checks: 23, Failures: 0, Errors: 0

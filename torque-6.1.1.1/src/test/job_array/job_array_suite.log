@@ -1,0 +1,10 @@
+Running suite job_array_suite methods
+test_uut.c:210:P:need_to_update_slot_limits_test:need_to_update_slot_limits_test:0: Passed
+test_uut.c:60:P:need_to_update_slot_limits_test:test_constructors:0: Passed
+test_uut.c:141:P:need_to_update_slot_limits_test:test_parse_array_request:0: Passed
+test_uut.c:229:P:update_array_values_test:update_array_values_test:0: Passed
+test_uut.c:102:P:update_array_values_test:test_set_slot_limit:0: Passed
+test_uut.c:192:P:update_array_values_test:test_initialize_uncreated_ids:0: Passed
+test_uut.c:177:P:update_array_values_test:test_mark_end_of_subjob:0: Passed
+Results for all suites run:
+100%: Checks: 7, Failures: 0, Errors: 0

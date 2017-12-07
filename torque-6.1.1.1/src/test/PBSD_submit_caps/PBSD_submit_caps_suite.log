@@ -1,0 +1,14 @@
+Running suite PBSD_submit_caps_suite methods
+test_uut.c:29:P:test_PBSD_queuejob:test_PBSD_queuejob:0: Passed
+test_uut.c:42:P:test_PBSD_queuejob:test_PBSD_QueueJob2_hash:0: Passed
+test_uut.c:124:P:test_PBSD_queuejob:test_PBSD_jobfile:0: Passed
+test_uut.c:132:P:test_PBSD_queuejob:test_PBSD_jscript:0: Passed
+test_uut.c:139:P:test_PBSD_queuejob:test_PBSD_jscript2:0: Passed
+test_uut.c:114:P:test_PBSD_QueueJob_hash:test_PBSD_QueueJob_hash:0: Passed
+test_uut.c:52:P:test_PBSD_QueueJob_hash:test_PBSD_scbuf:0: Passed
+test_uut.c:60:P:test_PBSD_QueueJob_hash:test_PBSD_commit:0: Passed
+test_uut.c:67:P:test_PBSD_QueueJob_hash:test_PBSD_commit2:0: Passed
+test_uut.c:75:P:test_PBSD_QueueJob_hash:test_PBSD_commit_get_sid:0: Passed
+test_uut.c:83:P:test_PBSD_QueueJob_hash:test_PBSD_rdytocmt:0: Passed
+Results for all suites run:
+100%: Checks: 11, Failures: 0, Errors: 0

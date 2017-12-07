@@ -1,0 +1,6 @@
+Running suite parse_config test suite methods
+test_uut.c:31:P:test_setcudavisibledevices:test_setcudavisibledevices:0: Passed
+test_uut.c:59:P:test_setjobstarterprivileged:test_setjobstarterprivileged:0: Passed
+test_uut.c:79:P:test_reqgres:test_reqgres:0: Passed
+Results for all suites run:
+100%: Checks: 3, Failures: 0, Errors: 0

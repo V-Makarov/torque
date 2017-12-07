@@ -1,0 +1,8 @@
+Running suite svr_mail_suite methods
+test_uut.c:186:P:test_with_default_files_when_complete:test_with_default_files_when_complete:0: Passed
+test_uut.c:253:P:test_with_oe_when_complete:test_with_oe_when_complete:0: Passed
+test_uut.c:123:P:test_with_oe_when_complete:test_send_email_batch:0: Passed
+test_uut.c:321:P:test_with_eo_when_complete:test_with_eo_when_complete:0: Passed
+test_uut.c:347:P:mail_point_p:mail_point_p:0: Passed
+Results for all suites run:
+100%: Checks: 5, Failures: 0, Errors: 0

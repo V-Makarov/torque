@@ -1,0 +1,25 @@
+Running suite job_func_suite methods
+test_uut.c:67:P:hostname_in_externals_test:hostname_in_externals_test:0: Passed
+test_uut.c:107:P:fix_cray_exec_hosts_test:fix_cray_exec_hosts_test:0: Passed
+test_uut.c:136:P:fix_external_exec_hosts_test:fix_external_exec_hosts_test:0: Passed
+test_uut.c:156:P:change_external_job_name_test:change_external_job_name_test:0: Passed
+test_uut.c:185:P:split_job_test:split_job_test:0: Passed
+test_uut.c:198:P:job_abt_test:job_abt_test:0: Passed
+test_uut.c:207:P:conn_qsub_test:conn_qsub_test:0: Passed
+test_uut.c:246:P:job_alloc_test:job_alloc_test:0: Passed
+test_uut.c:250:P:job_free_test:job_free_test:0: Passed
+test_uut.c:273:P:copy_job_test:copy_job_test:0: Passed
+test_uut.c:278:P:job_clone_test:job_clone_test:0: Passed
+test_uut.c:299:P:job_clone_wt_test:job_clone_wt_test:0: Passed
+test_uut.c:317:P:cpy_checkpoint_test:cpy_checkpoint_test:0: Passed
+test_uut.c:323:P:remove_checkpoint_test:remove_checkpoint_test:0: Passed
+test_uut.c:334:P:cleanup_restart_file_test:cleanup_restart_file_test:0: Passed
+test_uut.c:344:P:record_jobinfo_test:record_jobinfo_test:0: Passed
+test_uut.c:379:P:svr_job_purge_test:svr_job_purge_test:0: Passed
+test_uut.c:45:P:svr_job_purge_test:internal_job_id_exists_test:0: Passed
+test_uut.c:389:P:svr_find_job_test:svr_find_job_test:0: Passed
+test_uut.c:405:P:svr_find_job_test:get_jobs_array_test:0: Passed
+test_uut.c:421:P:get_jobs_queue_test:get_jobs_queue_test:0: Passed
+test_uut.c:237:P:get_jobs_queue_test:handle_aborted_job_test:0: Passed
+Results for all suites run:
+100%: Checks: 22, Failures: 0, Errors: 0

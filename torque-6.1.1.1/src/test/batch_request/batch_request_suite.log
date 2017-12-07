@@ -1,0 +1,6 @@
+Running suite batch_request suite methods
+test_uut.c:36:P:test_one:test_one:0: Passed
+test_uut.c:84:P:test_one:test_br_copy_constructor:0: Passed
+test_uut.c:53:P:test_constructor:test_constructor:0: Passed
+Results for all suites run:
+100%: Checks: 3, Failures: 0, Errors: 0

@@ -1,0 +1,4 @@
+Running suite authorized_hosts_suite methods
+test_uut.c:89:P:test_basics:test_basics:0: Passed
+Results for all suites run:
+100%: Checks: 1, Failures: 0, Errors: 0

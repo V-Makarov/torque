@@ -1,0 +1,4 @@
+numa_constants.lo: ../../server/../lib/Libutils/numa_constants.cpp \
+ ../../../src/include/numa_constants.h
+
+../../../src/include/numa_constants.h:

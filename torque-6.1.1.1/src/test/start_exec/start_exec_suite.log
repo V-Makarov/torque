@@ -1,0 +1,25 @@
+Running suite start_exec_suite methods
+test_uut.c:437:P:test bld_env_variables no reallocation:test_bld_env_variables_no_realloc:0: Passed
+test_uut.c:458:P:test bld_env_variables reallocating env pointers only:test_bld_env_variables_realloc_env:0: Passed
+test_uut.c:480:P:test bld_env_variables in reallocating mem block only:test_bld_env_variables_realloc_block:0: Passed
+test_uut.c:503:P:test bld_env_variables in reallocating both env pointers and mem block:test_bld_env_variables_realloc_all:0: Passed
+test_uut.c:525:P:test_get_indices_from_exec_str:test_get_indices_from_exec_str:0: Passed
+test_uut.c:559:P:test_check_pwd_euser:test_check_pwd_euser:0: Passed
+test_uut.c:154:P:test_check_pwd_euser:test_read_launcher_child_status:0: Passed
+test_uut.c:569:P:test_check_pwd_no_user:test_check_pwd_no_user:0: Passed
+test_uut.c:110:P:test_check_pwd_no_user:process_launcher_child_status_test:0: Passed
+test_uut.c:90:P:test_check_pwd_no_user:update_task_and_job_states_after_launch_test:0: Passed
+test_uut.c:579:P:test_check_pwd_adaptive_user:test_check_pwd_adaptive_user:0: Passed
+test_uut.c:324:P:test_check_pwd_adaptive_user:job_nodes_test:0: Passed
+test_uut.c:272:P:test_check_pwd_adaptive_user:create_command_test:0: Passed
+test_uut.c:261:P:test_check_pwd_adaptive_user:no_hang_test:0: Passed
+test_uut.c:250:P:test_check_pwd_adaptive_user:exec_bail_test:0: Passed
+test_uut.c:226:P:test_check_pwd_adaptive_user:remove_leading_hostname_test:0: Passed
+test_uut.c:637:P:test_get_num_nodes_ppn:test_get_num_nodes_ppn:0: Passed
+test_uut.c:126:P:test_get_num_nodes_ppn:test_setup_process_launch_pipes:0: Passed
+test_uut.c:154:P:test_get_num_nodes_ppn:test_read_launcher_child_status:0: Passed
+test_uut.c:182:P:test_get_num_nodes_ppn:test_escape_spaces:0: Passed
+test_uut.c:708:P:test_become_the_user:test_become_the_user:0: Passed
+test_uut.c:781:P:test_TMomCheckJobChild:test_TMomCheckJobChild:0: Passed
+Results for all suites run:
+100%: Checks: 22, Failures: 0, Errors: 0
